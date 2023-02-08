@@ -20,16 +20,15 @@ README
     PRINTBYNAME
     BOOKSBYAUTHOR
     STATS
-    WRITERATING    (BONUS) Creates new rating object based on user input and stores into rating arraylist
-    PRINTRATINGS   (BONUS) Prints rating arraylist
-    RATINGRANGE    (BONUS) Checks if user entered a valid category, calcuates average rating of product and returns all products in category that are within rating range
+    WRITERATING    
+    PRINTRATINGS   
+    RATINGRANGE    
     ADDTOCART
     REMCARRITEM
     PRINTCART
     ORDERITEMS
 
 
-    The programs output screenshots can be seen in AssignmentTwoOutput.pdf
 
 Contributors
     Skeletion code:
